@@ -3,6 +3,7 @@
 void main()
 {
  clrscr();
- print("hello this is my first C language program!!!");
+ printf("hello this is my first C language program!!!");
+ printf("this is my second line of code in this project");
 getch();
 }
